@@ -1,10 +1,8 @@
 # latex-swing
 
-A Clojure library designed to ... well, that part is up to you.
 
 ## Usage
-
-FIXME
+Start up a repl and execute `run`.
 
 ## License
 
